@@ -4,7 +4,7 @@
 #include <stdint.h>
 
 // #define the macros below to 1/0 to enable/disable the mode of operation.
-// 
+//
 // CBC enables AES encryption in CBC-mode of operation.
 // CTR enables encryption in counter-mode.
 // ECB enables the basic ECB 16-byte block algorithm. All can be enabled simultaneously.
